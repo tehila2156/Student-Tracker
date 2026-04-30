@@ -145,16 +145,16 @@ It also includes real-time data handling, map integration, and state management.
 ## Screenshots
 
 ### Login
-![Login](./picture/log_in.png)
+![Login](./pictuer/log_in.png)
 
 ### Register
-![Login](./picture/Register.png)
+![Login](./pictuer/Register.png)
 
 ### Add Student
-![Map](./picture/Add.png)
+![Map](./pictuer/Add.png)
 
 ### Search Student
-![Map](./picture/Search.png)
+![Map](./pictuer/Search.png)
 
 ### Map View
-![Map](./picture/map.png)
+![Map](./pictuer/map.png)
