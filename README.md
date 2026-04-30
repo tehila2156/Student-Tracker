@@ -141,7 +141,7 @@ Node.js and Express (backend)
 MongoDB (database)
 
 It also includes real-time data handling, map integration, and state management.
-```md
+
 ## Screenshots
 
 ### Login
